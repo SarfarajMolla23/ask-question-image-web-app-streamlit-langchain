@@ -1,8 +1,3 @@
-﻿# ask-question-image-web-app-streamlit-langchain
-created ask question image web app using python, streamlit, apoenai api key, langchan
-
-Here’s a refined version of your GitHub README:
-
 ---
 
 # Image Question Answering Web App
